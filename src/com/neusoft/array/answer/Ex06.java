@@ -6,6 +6,7 @@ public class Ex06 {
 
 	public static void main(String[] args) {
 		while(true) {
+			int aaa;
 		int[] binary=new int[8];
 		System.out.println("输入一个正整数：");
 		Scanner sc = new Scanner(System.in);
