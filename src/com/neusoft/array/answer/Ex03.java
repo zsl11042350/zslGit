@@ -7,7 +7,7 @@ public class Ex03 {
 
 	public static void main(String[] args) {
 		double[] score=new double[10];
-		int s,s1;
+		int s,ss;
 		System.out.println("请输入选手的10个得分：");
 		Scanner sc = new Scanner(System.in);
 		for(int i=0;i<score.length;i++) {
